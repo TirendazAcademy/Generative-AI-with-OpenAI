@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/GenerativeAI-820000?&style=plastic&logo=generativeai&logoColor=white)]()
 
 
-This repo includes generative AI tutorials. In this repo, we aim to show how to perform generative AI projects with OpenAI Python API.
+This repo includes generative AI tutorials. This repo walks you through how to perform generative AI projects with the OpenAI Python API.
 
 ## YouTube
 - [What is Generative AI?](https://youtu.be/SVOOsaWmgKk)
