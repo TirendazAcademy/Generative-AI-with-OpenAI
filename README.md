@@ -8,6 +8,12 @@
 
 This repo includes generative AI tutorials. This repo walks you through how to perform generative AI projects with the OpenAI Python API.
 
+### All examples
+
+Install the requirements for all the examples with:
+
+`pip install -r requirements.txt`
+
 ## YouTube
 - [What is Generative AI?](https://youtu.be/SVOOsaWmgKk)
 
