@@ -16,5 +16,7 @@ Install the requirements for all the examples with:
 
 ## YouTube
 - [What is Generative AI?](https://youtu.be/SVOOsaWmgKk)
+- [Text Generation App](https://youtu.be/WPlSpjiv4tk)
+- [Chatbot with LangChain, OpenAI and Gradio](https://youtu.be/9jgpPECLvs0)
 
 
